@@ -8,5 +8,4 @@
 ## Certification Projects
 - [ ] **Project 1: Survey Form** – Form inputs, labels, radio buttons, validation 
 
-## Some Subheader 
-Watching a tutorial on youtube rn.
+
